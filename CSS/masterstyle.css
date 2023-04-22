@@ -1,0 +1,36 @@
+
+body {
+  background-color: #7C99AC;
+}
+h1 {
+  color: #112B3C;
+}
+h3 {
+  color: #205375;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 10%;
+}
+p:hover{
+  background-color: #2F8F9D;
+}
+
+#Cualidades:hover {
+  background-color: gold
+}
+
+.profile {
+  width: 250px;
+  height: 50%;
+  padding: 0;
+}
+
+.libro-img {
+  width: 270px;
+  display: block;
+}
+
